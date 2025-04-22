@@ -8,9 +8,10 @@ redirect_from:
 ---
 我是 [陽明交通大學](https://www.nycu.edu.tw/nycu/ch/index) [資訊科學與工程研究所](https://www.cs.nycu.edu.tw/intro/organization/computer-science) 的畢業生。我的研究興趣包括電腦視覺、深度學習、全端開發。
 
-You can find my CV here: [中文CV](../assets/CV_CN.pdf). / [English CV](../assets/CV_EN.pdf)
+你可以在這邊找到我的CV/You can find my CV here: [中文CV](../assets/CV_CN.pdf). / [English CV](../assets/CV_EN.pdf)
 
 [Email](mailto:allen.yu1216@gmail.com) / [Github](https://github.com/luuun1216)
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
